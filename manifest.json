@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Moreweather 3D Clouds Shader",
+    "description": "Shader (MB Loader) que raymarcha as partículas weather:rm_cloud do Moreweather. Resto das partículas inalterado.",
+    "uuid": "6cd2e238-48fb-4fa0-a9d1-b946501b1b93",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      120
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bce48921-3a89-42b4-ba7b-2eb0ed27a9fe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
